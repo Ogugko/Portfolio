@@ -11,3 +11,9 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 |  [Coffee Sales Analysis](https://github.com/Ogugko/Excel-Coffee-Sales-Dashboard)| Excel | Cleaned data, analysed data and created a dashboard that shows the coffee sales from January 2019 to December 2022, for easy analysis and observation, using Excel. |
 
 ***
+
+# Dashboards
+[![image](https://github.com/Ogugko/Portfolio/assets/143842831/28889546-f829-4871-8df7-c1b2814d8bb4)](https://github.com/Ogugko/E-commerce-Customer-Behaviour-and-Product-Performance-Analysis-SQL-Power-BI) 
+
+[![image](https://github.com/Ogugko/Portfolio/assets/143842831/f16b82ac-8981-4a77-b459-72eadde1ff47)](https://github.com/Ogugko/Ecommerce-Customer-Churn-Analysis-SQL-Power-BI)
+
